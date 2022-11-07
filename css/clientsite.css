@@ -1,0 +1,53 @@
+@import url('https://fonts.google.com/specimen/Staatliches');
+@import url('https://fonts.google.com/specimen/Satisfy#standard-styles')
+
+
+.topnav{background-color: #69140e; padding: 6px 8px; text-align: right; }
+.topnav a{color:white; font-family: tahoma, sans-serif; font-weight: bold; text-align:center; padding:6px 8px; text-decoration:none; font-size: 18px;}
+.topnav a:hover{position: relative; display: inline-block; background-color:#569997; color:black; padding:6px 8px}
+.dropbtn {font-family: tahoma, sans-serif; font-weight: bold; background-color: #69140e;color: white;padding: 6px 8px; font-size: 18px; border: none;}
+.dropdown {position: relative; display: inline-block;}
+.dropdown-content {display: none; position: absolute; background-color: #69140e; box-shadow: 0px 6px 8px 0px rgba(0,0,0,0.2); z-index: 1; text-align:left;}
+.dropdown-content a {color: white; padding: 6px 8px; text-decoration: none; display: block; text-align:left;}
+.dropdown:hover .dropdown-content {display: block;}
+nav {background-color: #69140e;}
+h1{font-size: 37px; font-family: "Satisfy"; letter-spacing: 1.5px; color:#ff7403;}
+h2{font-size: 30px; font-family: "Satisfy"; letter-spacing:1.5px; color:#ff7403;}
+h3{font-size:22px;color:#FF0000;margin-left: 35px;}
+p{font-family: tahoma; font-size:16px; line-height: 22px}
+body{background-color: #FFF5EC;}
+section{background-color:#ff7403;height:20%}
+ul{font-family: tahoma, sans-serif; font-size: 16px; letter-spacing:.5px; line-height: 22px}
+#web {display: block; margin-left: auto; margin-right: auto; max-width: 80%; border:10px solid #ff914d}
+
+.padding{padding-left:18px; padding-right:18px;}
+h3.maroon {
+  color: #69140E;
+  padding-top: 4em;
+  font-family: Tahoma;
+}
+.tab{margin-left: 35px}
+#links {color:#69140e; text-decoration:none;}
+#foot{position:relative; bottom:0; width:100%; text-emphasis: bold; font-family: tahoma, sans-serif; text-align:center; padding: 8px 10px; background-color: #ff7403}
+footer{font-family: tahoma, sans-serif;position:absolute; width: 100%; bottom:0; text-align: center; text-emphasis: bold; padding: 8px 10px; background-color: #ff7403}
+
+a.linkcharacters{
+  color: #69140E;
+  text-decoration: none;
+}
+
+img.spoiler{
+width: 12em;
+height: auto;
+padding: 2em;
+}
+
+div.flex-container{
+ display: flex;
+ max-width: 100%;
+ margin-left: 7.5em;
+}
+
+a.linkcharacters:hover{
+  color: #569997;
+}
